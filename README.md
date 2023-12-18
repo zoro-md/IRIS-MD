@@ -162,11 +162,9 @@ global.BotName = "BelugaBot";
   
    ## `Special Thanks To`
 
-* [`📕 Kai..!!`](https://github.com/FantoX001)
+* [`📕 Kai..!!`](https://github.com/Kai0071)
 * [`📕 Guru`](https://github.com/Guru322)
-* [`📕 SuhailTech`](https://github.com/SuhailTechInfo)
 * [`📕 Hyno-IR`](https://github.com/HyNO-IR)
-* [`📕 ABHISHEK`](https://github.com/AbhishekSuresh2)
 ---------
 
 
