@@ -25,7 +25,7 @@ global.BotName = "BelugaBot-MD";
 global.packname = "Beluga-MD";                             //Do not change.
 global.author = "By: Slasher";                               //Do not change.
 global.BotSourceCode = "https://github.com/ahil15/BelugaBot-MD"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk"; 
+global.SupportGroupLink = "https://chat.whatsapp.com/"; 
 
 
 //
