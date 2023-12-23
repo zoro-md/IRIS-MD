@@ -18,7 +18,7 @@
 </p>
 
 #### Notice
-Read the Whole ***Repository*** to get the proper explation and tutorial of bot.⛄
+Read the Whole ***Repository*** to get the proper explanation and tutorial of bot.⛄
 
 ***
 
