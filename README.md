@@ -15,7 +15,7 @@
 
 1. Scan the QR and copy it
     <br>
-<a href='https://iris-web-0cm9.onrender.com/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://iris.alphasoft.org/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 #### DEPLOY TO HEROKU 
 
@@ -25,7 +25,7 @@
 
 2. Now Deploy
     <br>
-<a href='https://iris-web-0cm9.onrender.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://iris.alphasoft.org/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 #### DEPLOY TO REPLIT
 
