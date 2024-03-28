@@ -8,7 +8,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Enter Your Session ID",
+      "description": "paste Your Session ID",
       "required": true
     },
     "HANDLERS": {
