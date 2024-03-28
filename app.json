@@ -36,6 +36,16 @@
       "required": false,
       "value": "ɪʀɪꜱ-ᴍᴅ;VᴇɴᴏxSᴇʀ;https://imgur.com/D60nScQ.jpg"
     },
+    "AUTO_STATUS_VIEW": {
+      "description": "true or false",
+      "required": false,
+      "value": true,
+    },
+    "ALWAYS_ONLINE": {
+      "description": "true or false",
+      "required": false,
+      "value": true,
+    },
     "MODE": {
       "description": "Enter Your Mode Type public For Public Otherwise Type private",
       "required": false,
