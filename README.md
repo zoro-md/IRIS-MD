@@ -19,7 +19,7 @@
 
 #### DEPLOY TO HEROKU 
 
-1. Create a account.
+1. Create an account.
     <br>
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
@@ -29,26 +29,26 @@
 
 #### DEPLOY TO REPLIT
 
-1. Create a account.
+3. Create an account.
     <br>
 <a href='https://replit.com/signup' target="_blank"><img alt='replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=orange'/></a>
 
-2. Now Deploy
+4. Now Deploy
     <br>
 <a href='https://replit.com/github/V-E-N-O-X/IRIS-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=orange'/></a>
 
 #### DEPLOY TO RAILWAY
 
-1. Create a account.
+5. Create an account.
     <br>
 <a href='https://railway.app/login' target="_blank"><img alt='railway' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
-2. Now Deploy
+6. Now Deploy
     <br>
 <a href='https://railway.app/template/12FD9C?referralCode=Wbbu1p' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
 <br><br>
 
-### Support Me
+### SUPPORT ME
 
 <a href="https://whatsapp.com/channel/0029VaHt1710AgWB1B0Lkg0Q"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-white?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 <br><br>
