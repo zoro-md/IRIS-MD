@@ -11,13 +11,13 @@
 <div align="left"
 <br><br>
   
-### sᴇᴛᴜᴘ
+## sᴇᴛᴜᴘ
 
 1. 𝘚𝘤𝘢𝘯 𝘵𝘩𝘦 𝘘𝘙 𝘢𝘯𝘥 𝘤𝘰𝘱𝘺 𝘪𝘵
     <br>
 <a href='https://iris.alphasoft.org/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-#### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
+### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
 
 1. 𝘊𝘳𝘦𝘢𝘵𝘦 𝘢𝘯 𝘢𝘤𝘤𝘰𝘶𝘯𝘵.
     <br>
@@ -27,7 +27,7 @@
     <br>
 <a href='https://iris.alphasoft.org/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-#### ᴅᴇᴘʟᴏʏ ᴛᴏ ʀᴇᴘʟɪᴛ
+### ᴅᴇᴘʟᴏʏ ᴛᴏ ʀᴇᴘʟɪᴛ
 
 3. 𝘊𝘳𝘦𝘢𝘵𝘦 𝘢𝘯 𝘢𝘤𝘤𝘰𝘶𝘯𝘵.
     <br>
@@ -37,7 +37,7 @@
     <br>
 <a href='https://replit.com/github/V-E-N-O-X/IRIS-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=orange'/></a>
 
-#### ᴅᴇᴘʟᴏʏ ᴛᴏ ʀᴀɪʟᴡᴀʏ
+### ᴅᴇᴘʟᴏʏ ᴛᴏ ʀᴀɪʟᴡᴀʏ
 
 5. 𝘊𝘳𝘦𝘢𝘵𝘦 𝘢𝘯 𝘢𝘤𝘤𝘰𝘶𝘯𝘵.
     <br>
@@ -48,12 +48,12 @@
 <a href='https://railway.app/template/12FD9C?referralCode=Wbbu1p' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
 <br><br>
 
-#### sᴜᴘᴘᴏʀᴛ ᴍᴇ
+### sᴜᴘᴘᴏʀᴛ ᴍᴇ
 
 <a href="https://whatsapp.com/channel/0029VaHt1710AgWB1B0Lkg0Q"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-white?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 <br><br>
 
-  #### ᴛʜᴀɴᴋs ᴛᴏ
+  ### ᴛʜᴀɴᴋs ᴛᴏ
 - [ABRAHAM ❤️](https://github.com/abrahamdw882) <br>
 - [X-Electra](https://github.com/X-Electra) for [X-Asena](https://github.com/X-Electra/X-Asena)
 <br><br>
