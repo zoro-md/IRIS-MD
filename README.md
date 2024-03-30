@@ -48,12 +48,12 @@
 <a href='https://railway.app/template/12FD9C?referralCode=Wbbu1p' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
 <br><br>
 
-### SUPPORT ME
+### 🎌```SUPPORT ME```
 
 <a href="https://whatsapp.com/channel/0029VaHt1710AgWB1B0Lkg0Q"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-white?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 <br><br>
 
-  ### THANKS TO
+  ### 🍀```THANKS TO```
 - [ABRAHAM ❤️](https://github.com/abrahamdw882) <br>
 - [X-Electra](https://github.com/X-Electra) for [X-Asena](https://github.com/X-Electra/X-Asena)
 <br><br>
