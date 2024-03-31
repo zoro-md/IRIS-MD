@@ -55,6 +55,7 @@
 
   ### ᴛʜᴀɴᴋs ᴛᴏ
 - [ABRAHAM ❤️](https://github.com/abrahamdw882) <br>
+- [TygerGracia ❤](https://github.com/TygerGarcia) <br>
 - [X-Electra](https://github.com/X-Electra) for [X-Asena](https://github.com/X-Electra/X-Asena)
 <br><br>
 
