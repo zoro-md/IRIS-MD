@@ -10,6 +10,9 @@
 <a href="https://github.com/V-E-N-O-X/IRIS-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/V-E-N-O-X/IRIS-MD?color=yellow&style=flat-square"></a>
 <div align="left"
 <br><br>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{IRIS-MD}/count.svg" alt="V-E-N-O-X :: Visitor's Count" /></p>
+
   
 ## sᴇᴛᴜᴘ
 
