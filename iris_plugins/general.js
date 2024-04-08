@@ -171,7 +171,7 @@ iris({
 iris({
     name: "groupinfo",
     fromMe: true,
-    category: "info",
+    category: "group",
     desc: "Display information about the group (Admin Only)",
 }, async ({ m, client }) => {
     if (!m.isGroup) return await m.reply("_This command can only be used in a group._");
