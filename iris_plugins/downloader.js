@@ -53,8 +53,25 @@ const {
     isPublic
 } = require("../lib/commands.js");
 let gis = require("g-i-s");
-const axios = require('axios');
-const fetch = require('node-fetch');
+const { 
+  existsSync, 
+  mkdirSync, 
+  writeFileSync,
+  readFileSync,
+  createWriteStream
+} = require('fs');
+const fetch = require('node-fetch')
+const yts = require("yt-search")
+const ytdl = require("youtubedl-core");
+const NodeID3 = require('node-id3')
+const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
+const axios = require("axios")
+const {
+  AddMp3Meta
+} = require("../lib/functions.js");
+
+
+
 
 iris(
     {
@@ -238,3 +255,27 @@ let dll = `https://api-viper-x.koyeb.app/api/ytdl?video360p=${args}`
 client.sendMessage(m.jid, { video :{ url: dll }, caption: "_IRIS-MD_"}, {quoted: m })
     }
     );
+
+
+iris(
+    {
+        name: "song",
+        fromMe: isPublic,
+        category: "downloader",
+        desc: "To download song"
+    },
+    async ({
+        m, client, args
+    }) => {
+      args = args || m.quoted?.text;
+        if (!args) return m.reply("_Enter a Query !_")
+      let mes = await client.sendMessage(m.jid, { text : `_Searching..._` } , { quoted : m })
+   const res = await axios.get(`https://api-viper-x.koyeb.app/api/song?name=${args}`)
+    let response = await res.data
+    let coverBuffer = await (await fetch(`${response.data.thumbnail}`)).buffer()
+     client.sendMessage(m.jid, { text : `_Downloading : ${response.data.title}_` , edit : mes.key })
+   const songbuff = await (await fetch(`${response.data.downloadUrl}`)).buffer()
+   const song = await AddMp3Meta(songbuff , coverBuffer , { title : response.data.title , artist : response.data.channel.name } )
+     return await client.sendMessage(m.jid , {audio : song ,  mimetype : 'audio/mpeg'} , { quoted : m })
+      
+    })
