@@ -16,13 +16,14 @@
   
 ## sᴇᴛᴜᴘ
 
-1. 𝘚𝘤𝘢𝘯 𝘵𝘩𝘦 𝘘𝘙 𝘢𝘯𝘥 𝘤𝘰𝘱𝘺 𝘪𝘵
+1. _Fork This Repo_
+    <br>
+<a href='https://github.com/V-E-N-O-X/IRIS-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/Fork_Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+2. 𝘚𝘤𝘢𝘯 𝘵𝘩𝘦 𝘘𝘙 𝘢𝘯𝘥 𝘤𝘰𝘱𝘺 𝘪𝘵
     <br>
 <a href='https://irisweb.alphasoft.org' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-2. _Fork This Repo_
-    <br>
-<a href='https://github.com/V-E-N-O-X/IRIS-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/Fork_Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
 
