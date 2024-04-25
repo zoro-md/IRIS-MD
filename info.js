@@ -44,11 +44,11 @@ if (fs.existsSync('config.env')) {
   });
 }
 
-//=========================[REQUIRED MODULES, USE IT AS U LIKE!]===================//
 
 module.exports = {
     SESSION_ID: process.env.SESSION_ID || '',
     HANDLERS: process.env.HANDLERS || '.',
+    IG: process.env.IG || 'https://instagram.com/sla.sher_/',
     INFO: process.env.INFO || 'ɪʀɪꜱ-ᴍᴅ;VᴇɴᴏxSᴇʀ;https://imgur.com/D60nScQ.jpg',
     URL: process.env.URL || 'https://whatsapp.com/channel/0029VaHt1710AgWB1B0Lkg0Q',
     SUDO: process.env.SUDO || '8801975492880',
@@ -56,24 +56,26 @@ module.exports = {
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || 'true',
     MODE: process.env.MODE || 'public',
     STICKER_DATA: process.env.STICKER_DATA || '️ᴍᴀᴅᴇ ʙʏ; ɪʀɪꜱ-ᴍᴅ',
-    HAPP: process.env.HAPP || '', // IF NOT HEROKU THEN KEEP IT BLANK
-    HKEY: process.env.HKEY || '', // IF NOT HEROKU THEN KEEP IT BLANK
-    DATABASE_URL: DATABASE_URL,
-    DATABASE:
-     DATABASE_URL === "./lib/database.db"
-       ? new Sequelize({
-          dialect: "sqlite",
-          storage: DATABASE_URL,
-          logging: false,
-        })
-      : new Sequelize(DATABASE_URL, {
-          dialect: "postgres",
-          ssl: true,
-          protocol: "postgres",
-          dialectOptions: {
+    HAPP: process.env.HAPP || '', // ɪꜰ ɴᴏᴛ ʜᴇʀᴏᴋᴜ, ᴛʜᴇɴ ᴋᴇᴇᴘ ɪᴛ ʙʟᴀɴᴋᴇᴅ
+    HKEY: process.env.HKEY || '', // ɪꜰ ɴᴏᴛ ʜᴇʀᴏᴋᴜ, ᴛʜᴇɴ ᴋᴇᴇᴘ ɪᴛ ʙʟᴀɴᴋᴇᴅ
+    DATABASE_URL: DATABASE_URL
+};
+
+const DATABASE = DATABASE_URL === "./lib/database.db" ?
+    new Sequelize({
+        dialect: "sqlite",
+        storage: DATABASE_URL,
+        logging: false
+    }) :
+    new Sequelize(DATABASE_URL, {
+        dialect: "postgres",
+        ssl: true,
+        protocol: "postgres",
+        dialectOptions: {
             native: true,
             ssl: { require: true, rejectUnauthorized: false },
-          },
-          logging: false,
-        }),
-};
+        },
+        logging: false
+    });
+
+module.exports.DATABASE = DATABASE;
