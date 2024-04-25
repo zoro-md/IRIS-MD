@@ -3,7 +3,7 @@ const {INFO} = require("../info.js");
 
 iris(
     {
-        name: "ig",
+        name: "igstalk",
         category: "stalker",
         fromMe: isPublic,
         desc: "stalk ur ig account"
