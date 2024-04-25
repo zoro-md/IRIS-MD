@@ -8,6 +8,7 @@ const audios = [
     "https://telegra.ph/file/549b2f05d7ea98d3fe869.mp4"
 ];
 
+
 const images = [
     "https://i.ibb.co/2Fxnv8W/bot2.jpg",
     "https://i.ibb.co/G35jn3J/bot2p.jpg"
