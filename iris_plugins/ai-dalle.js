@@ -6,7 +6,7 @@ iris(
     {
         name: "dalle",
         fromMe: isPublic,
-        category: "ai",
+        category: "aimenu",
         desc: "imagine an image",
     },
     async ({
