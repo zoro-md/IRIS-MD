@@ -1,4 +1,4 @@
-const {iris, isPublic} = require("../lib/plugins.js");
+const {iris, isPublic} = require("../lib/commands.js");
 const {INFO} = require("../info.js");
 
 iris(
