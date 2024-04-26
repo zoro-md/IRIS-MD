@@ -1,3 +1,7 @@
+const { iris, isPublic } = require("../lib/commands.js");
+const fetch = require("node-fetch");
+
+
 iris(
     {
         name: "dalle",
