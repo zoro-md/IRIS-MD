@@ -1,7 +1,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <div align="center" class= "main"> 
-  <img src="https://imgur.com/D60nScQ.jpg" width="300" height="300"/>
-  <h1>ＩＲＩＳ- ＭＤ</h1>
+  <img src="https://telegra.ph/file/4abb5e925d4ffeedd1a18.jpg" width="300" height="300"/>
+  <h1>Z O R O- ＭＤ</h1>
 
 <a href="https://github.com/V-E-N-O-X"><img title="Creator" src="https://img.shields.io/badge/Creator-VENOX-red.svg?style=for-the-badge&logo=github"></a>
 <br>
@@ -60,19 +60,3 @@
 
 <a href="https://whatsapp.com/channel/0029VaHt1710AgWB1B0Lkg0Q"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-white?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 <br><br>
-
-  ### ᴛʜᴀɴᴋs ᴛᴏ
-- [ABRAHAM ❤️](https://github.com/abrahamdw882) <br>
-- [TygerGracia ❤](https://github.com/TygerGarcia) <br>
-- [X-Electra](https://github.com/X-Electra) for [X-Asena](https://github.com/X-Electra/X-Asena)
-<br><br>
-
-### 📮s&ᴋ
-
-- *I will only Assist You in Bot Deployment*
-- *Do not revamp my modules/plugins*
-- *This Bot is not 100% secure,So keep this in mind*
-- ***Regards [Venox-Senpai](https://github.com/V-E-N-O-X)***
-
-  
-
