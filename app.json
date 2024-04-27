@@ -1,8 +1,8 @@
 {
-  "name": "IRIS-MD",
+  "name": "ZORO-MD",
   "version": "1.2.7",
   "description": "Simple lightweight whatsapp bot",
-  "logo": "https://imgur.com/D60nScQ.jpg",
+  "logo": "https://telegra.ph/file/4abb5e925d4ffeedd1a18.jpg",
   "keywords": ["whatsapp", "bot", "md", "multi-device"],
   "repository": "https://github.com/V-E-N-O-X/IRIS-MD",
   "stack": "container",
